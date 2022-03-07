@@ -1,0 +1,19 @@
+#contenido{
+    
+    width: 300px;
+    background: rgb(red, green, blue);
+    font: 20px arial;
+    margin: auto;
+    margin-top: 150px;
+    border: 2px solid blue;
+    box-shadow: 10px 10px 10;
+
+}
+
+.contenido{
+    text-align: center
+}
+div{
+background-color:#da4c28;
+}
+
