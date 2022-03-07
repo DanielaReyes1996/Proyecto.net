@@ -1,4 +1,5 @@
 #contenido{
+    
     width: 300px;
     background: rgb(red, green, blue);
     font: 20px arial;
@@ -12,3 +13,7 @@
 .contenido{
     text-align: center
 }
+div{
+background-color:#da4c28;
+}
+
